@@ -14,7 +14,7 @@ body {
 
 /* Cabeçalho */
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.932), rgba(0, 0, 0, 0.884)), url(/images/dev.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.932), rgba(0, 0, 0, 0.884)), url(./images/dev.png);
     background-position-y: 50%;
     background-repeat:no-repeat;
     background-size: cover;
